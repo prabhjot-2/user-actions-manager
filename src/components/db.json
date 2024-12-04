@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "James William",
+      "email": "jameswilly@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed",
+      "email": "ahmedali@gmail.com",
+      "phone": "9022222222"
+    },
+    {
+      "id": "5",
+      "name": "Prabhjot",
+      "email": "prabh@gmail.com",
+      "phone": "1234567891"
+    },
+    {
+      "id": "6",
+      "name": "jbj",
+      "email": "hjvhj@gmail.com"
+    }
+  ],
+  "trianingInfo": [
+    {
+      "id": "1",
+      "trngName": "React",
+      "modeOfTrng": "Virtual",
+      "trngDuration": "21 days"
+    },
+    {
+      "id": "2",
+      "trngName": "Next JS",
+      "modeOfTrng": "Virtual",
+      "trngDuration": "15 days"
+    },
+    {
+      "id": "3",
+      "trngName": "Graph QL",
+      "modeOfTrng": "Virtual",
+      "trngDuration": "10 days"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "movieName": "Jailer",
+      "actor": "Rajninikanth",
+      "movieDirector": "Nelson Dilipkumar"
+    },
+    {
+      "id": "2",
+      "movieName": "Jai Bheem",
+      "actor": "Surya",
+      "movieDirector": "Jananvel"
+    },
+    {
+      "id": "3",
+      "movieName": "Amaran",
+      "actor": "SK",
+      "movieDirector": "Rajkumar"
+    }
+  ]
+}
